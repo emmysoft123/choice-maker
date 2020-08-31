@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container {
+  text-align: center;
+  background-color:  blue;
+}
+.option,.question{
+  color: white;
+  text-align: center;
+}
+.center{
+  color: white;
+  font-size: 14px;
+}
+button{
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  outline: none;
+}
+input{
+    color: blue;
+    outline: inherit;
+    border-radius: 3px;
+    border: none;
+}
+.bg{
+  width: 100%;
+  height: 150px;
+}
